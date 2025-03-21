@@ -17,7 +17,7 @@
     <dependency>
       <groupId>org.projectlombok</groupId>
       <artifactId>lombok</artifactId>
-      <version>1.18.28</version>
+      <version>1.18.36</version>
       <scope>provided</scope>
     </dependency>
   </dependencies>
@@ -48,7 +48,7 @@
             <manifest>
               <addClasspath>true</addClasspath>
               <classpathPrefix>lib/</classpathPrefix>
-              <mainClass>com.parkingLot.app.App</mainClass>
+              <mainClass>com.chess.app.App</mainClass>
             </manifest>
           </archive>
         </configuration>
